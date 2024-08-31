@@ -175,3 +175,5 @@ cython_debug/
 *.vsix
 
 data/*.txt
+tmp/*.wav
+*.dll
